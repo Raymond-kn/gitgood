@@ -6,4 +6,7 @@ A repository to learn how to use Git.
 
 How to get good at version control.
 
+## Section 2
+
+Making changes directly on the remote. 
 
